@@ -26,3 +26,14 @@ body {
   font-family: sans-serif;
   font-size: 20px;
 }
+.addBtn {
+  font-size: 14px;
+  border-style: none;
+  padding: 1%;
+  border-radius: 9px;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+.addBtn:hover {
+  box-shadow: 1px 0px 4px 1px gray;
+}
